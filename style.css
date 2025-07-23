@@ -98,12 +98,11 @@ nav ul li.item a{
 }
 
 .btn:hover{
-  font-weight: 800;
   transform: translateY(-3px);
 }
 
 nav ul li.item a:hover{
-  font-weight: 700;
+    color: #06a8ff;
 }
 
 .btn-light{
